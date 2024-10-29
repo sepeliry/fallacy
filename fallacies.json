@@ -1,0 +1,150 @@
+{
+"source":"created based on the list from https://yourlogicalfallacyis.com/pdf/FallaciesPoster24x36.pdf",
+"fallacies":[
+    {
+      "symbol": "👨‍🌾",
+      "name": "Strawman",
+      "shrt_desc": "Distorting an argument to make it easier to challenge.",
+      "long_desc": "This fallacy involves exaggerating or misrepresenting an opponent's position, making it easier to refute. By creating a distorted version of the argument, it becomes simpler to present one’s own stance as more reasonable, though it detracts from a fair, rational debate."
+    }
+    
+    {
+      "symbol": "⛷️",
+      "name": "Slippery Slope",
+      "shrt_desc": "Claiming one thing will inevitably lead to extreme outcomes.",
+      "long_desc": "This fallacy suggests that allowing one action will trigger a chain of extreme events, distracting from the actual issue. It relies on baseless, exaggerated outcomes that undermine the merits of the original argument."
+    }
+    
+    {
+      "symbol": "🎩",
+      "name": "Special Pleading",
+      "shrt_desc": "Making exceptions to avoid being proven wrong.",
+      "long_desc": "This fallacy occurs when one changes the standards or makes exceptions once a claim is shown to be flawed. Rather than adjusting beliefs, people often invent reasons to preserve old views, reflecting an aversion to being wrong."
+    },
+    {
+      "symbol": "🎲",
+      "name": "Gambler's Fallacy",
+      "shrt_desc": "Believing independent events affect each other’s outcomes.",
+      "long_desc": "In the gambler's fallacy, people assume a ‘streak’ or ‘run’ will affect future outcomes of random, independent events, like roulette spins. Each event, however, is statistically independent, and the odds remain unchanged."
+    },
+    {
+      "symbol": "⚪⚫",
+      "name": "Black-or-White",
+      "shrt_desc": "Presenting two choices as the only options.",
+      "long_desc": "Also called a false dilemma, this fallacy restricts options to just two extremes, dismissing any other possible outcomes or solutions. On closer inspection, more nuanced options are usually available beyond the binary presented."
+    },
+    {
+      "symbol": "🔗",
+      "name": "False Cause",
+      "shrt_desc": "Assuming correlation implies causation.",
+      "long_desc": "This fallacy assumes that because two events are linked in time or pattern, one causes the other. Often, such connections are coincidental or may stem from a shared underlying factor rather than a direct cause-effect relationship."
+    },
+    {
+      "symbol": "🤡",
+      "name": "Ad Hominem",
+      "shrt_desc": "Attacking the person rather than their argument.",
+      "long_desc": "An ad hominem targets an opponent's character or personal traits instead of addressing their argument. Such attacks undermine the person’s credibility without engaging the actual issue, sidestepping the substance of the discussion."
+    },
+    {
+      "symbol": "❓",
+      "name": "Loaded Question",
+      "shrt_desc": "Asking a question with an embedded assumption.",
+      "long_desc": "Loaded questions contain assumptions that make it difficult to answer without appearing guilty. These questions are disruptive, as they often compel the respondent to defend themselves, shifting focus from the main argument."
+    },
+      {
+      "symbol": "🚃",
+      "name": "Bandwagon",
+      "shrt_desc": "Claiming popularity as proof of validity.",
+      "long_desc": "This fallacy argues that because many people believe something, it must be true. However, popularity alone doesn’t determine accuracy or validity; for much of history, common belief held that the Earth was flat, yet this didn't make it true."
+    },
+    {
+      "symbol": "➰",
+      "name": "Begging the Question",
+      "shrt_desc": "A circular argument where the conclusion is in the premise.",
+      "long_desc": "In this fallacy, the argument assumes what it’s trying to prove. Often based on ingrained assumptions, circular reasoning fails as it does not provide new evidence, merely reiterating itself without proving the claim."
+    },
+    {
+      "symbol": "👨‍⚖️",
+      "name": "Appeal to Authority",
+      "shrt_desc": "Relying on an authority’s belief as proof.",
+      "long_desc": "Appealing to authority argues that something is true because an expert believes it, which doesn’t ensure validity. While experts should be considered, their opinion alone doesn’t serve as proof unless backed by strong evidence."
+    },
+    {
+      "symbol": "🌿",
+      "name": "Appeal to Nature",
+      "shrt_desc": "Claiming something is good or true because it's natural.",
+      "long_desc": "This fallacy suggests that because something is ‘natural,’ it’s inherently good, valid, or ideal. However, ‘natural’ does not inherently equal ‘good’; many harmful things in nature highlight that naturalness doesn’t define moral or practical value."
+    },
+    {
+      "symbol": "🧩",
+      "name": "Composition/Division",
+      "shrt_desc": "Assuming what’s true of a part applies to the whole.",
+      "long_desc": "This fallacy assumes that what’s true for one part must be true for the whole, or vice versa. While some traits extend across parts, assuming without evidence that they do ignores possible inconsistencies within the whole."
+    },
+    {
+      "symbol": "👁️",
+      "name": "Anecdotal",
+      "shrt_desc": "Using personal experience instead of broader evidence.",
+      "long_desc": "This fallacy involves dismissing statistics or scientific findings in favor of personal anecdotes. Individual experiences, while compelling, are not typically representative and may overlook broader, more reliable patterns shown by data."
+    },
+    {
+      "symbol": "💔",
+      "name": "Appeal to Emotion",
+      "shrt_desc": "Using emotional appeal instead of logic.",
+      "long_desc": "This fallacy manipulates emotions to sway opinions rather than presenting a logical argument. Appeals to emotions like fear, guilt, or pity can obscure critical thinking, as they may sideline reason in favor of eliciting a strong reaction."
+    },
+    {
+      "symbol": "🔁",
+      "name": "Tu Quoque",
+      "shrt_desc": "Responding to criticism by criticizing back.",
+      "long_desc": "Also known as the ‘you too’ fallacy, it deflects criticism by accusing the critic of the same issue, distracting from the original criticism. This tactic avoids addressing the actual argument by shifting focus onto the accuser."
+    },
+    {
+      "symbol": "📜",
+      "name": "Burden of Proof",
+      "shrt_desc": "Claiming others must disprove a claim instead of proving it themselves.",
+      "long_desc": "In this fallacy, the responsibility to provide evidence lies on the claimant, not on others to disprove it. Without proof, a claim cannot be considered valid simply because it hasn’t been disproven."
+    },
+    {
+      "symbol": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+      "name": "No True Scotsman",
+      "shrt_desc": "Dismissing flaws by redefining terms to protect a claim.",
+      "long_desc": "This fallacy creates an 'appeal to purity' by shifting criteria when faced with valid criticism, denying that flaws apply by redefining terms to maintain a claim’s integrity."
+    },
+    {
+      "symbol": "🎯",
+      "name": "Texas Sharpshooter",
+      "shrt_desc": "Selecting data clusters to fit a desired argument.",
+      "long_desc": "This fallacy cherry-picks patterns or data clusters that appear by chance to justify a presumption, overlooking data that doesn’t align. It’s named after painting a target around a concentration of bullet holes to ‘create’ accuracy."
+    },
+    {
+      "symbol": "♾️",
+      "name": "Fallacy Fallacy",
+      "shrt_desc": "Assuming a claim is false due to a flawed argument.",
+      "long_desc": "A fallacious argument doesn’t automatically mean the conclusion is false. True claims can be poorly argued, just as false claims can have valid-sounding logic; truth is independent of argument style."
+    },
+    {
+      "symbol": "🤔",
+      "name": "Personal Incredulity",
+      "shrt_desc": "Assuming something is untrue because it’s hard to understand.",
+      "long_desc": "This fallacy dismisses a concept due to personal difficulty in understanding it. Complex subjects, like evolution, can require specialized knowledge that challenges assumptions or intuitions, but complexity doesn’t invalidate truth."
+    },
+    {
+      "symbol": "🔀",
+      "name": "Ambiguity",
+      "shrt_desc": "Using language ambiguities to mislead or obscure truth.",
+      "long_desc": "This fallacy exploits multiple meanings or vague wording to mislead, allowing the speaker to avoid outright lies. Often used in politics, it leaves room to backtrack or reinterpret statements if challenged."
+    },
+    {
+      "symbol": "🧬",
+      "name": "Genetic Fallacy",
+      "shrt_desc": "Judging something by its origin rather than its merits.",
+      "long_desc": "This fallacy dismisses or validates something based on its source rather than on evidence or merit, appealing to biases about origins, similar to an ad hominem applied to a concept or group."
+    },
+    {
+      "symbol": "⚖️",
+      "name": "Middle Ground",
+      "shrt_desc": "Assuming the truth lies between two extremes.",
+      "long_desc": "This fallacy argues that a compromise must be correct just because it’s between two opposing views. While balance can sometimes be reasonable, truth isn’t always in the middle; a middle ground can still be false."
+    }
+  ]
